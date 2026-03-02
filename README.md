@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/images/onephone-logo.png" width="260" alt="OnePhone">
-  <br><br>
   <strong>Party games. One phone. No setup.</strong>
   <br><br>
   <img src="assets/images/onephone-ad.jpg" width="720" alt="OnePhone banner">
@@ -319,6 +317,69 @@ flutter build apk --release
 ```
 
 Output: `build/app/outputs/bundle/release/app-release.aab`
+
+---
+
+## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/main.png" width="160" alt="Main Menu"><br>
+        <sub>Main Menu</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/player_setup.png" width="160" alt="Player Setup"><br>
+        <sub>Player Setup</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/how_to_undercover.png" width="160" alt="How to Play"><br>
+        <sub>How to Play</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/language_selection.png" width="160" alt="Language Selection"><br>
+        <sub>Language Selection</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/charades_active.png" width="160" alt="Charades"><br>
+        <sub>Charades</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/20Q_select.png" width="160" alt="20 Questions — Chooser"><br>
+        <sub>20 Questions — Chooser</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/20Q_active.png" width="160" alt="20 Questions — Active"><br>
+        <sub>20 Questions — Active</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/20Q_report.png" width="160" alt="20 Questions — Report"><br>
+        <sub>20 Questions — Report</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/simon_active.png" width="160" alt="Simon"><br>
+        <sub>Simon</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/spin_the_bottle_active.png" width="160" alt="Spin the Bottle"><br>
+        <sub>Spin the Bottle</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/blitz_fr_active.png" width="160" alt="Word Blitz (French)"><br>
+        <sub>Word Blitz (French)</sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/blitz_ar_active.png.png" width="160" alt="Word Blitz (Arabic)"><br>
+        <sub>Word Blitz (Arabic)</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
